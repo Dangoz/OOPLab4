@@ -1,10 +1,9 @@
 /*
- Authors:
- Your name and student #:
- Your Partner's Name and student #:
+ Authors: Jason
+ Your name and student #: A01249922
+ Your Partner's Name and student #: Hailey A01242295
  (Make sure you also specify on the Google Doc)
 */
-const { fips } = require("crypto");
 const express = require("express");
 const fsP = require("fs").promises;
 
